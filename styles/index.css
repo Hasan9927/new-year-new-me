@@ -15,11 +15,19 @@
   line-height: 26px;
 }
 
+.common-h3 {
+  color: #151414;
+  font-size: 40px;
+  font-weight: 700;
+}
+
 /* header */
 
 .header {
   background: url('/images/banner/banner3.png');
+  background-position: center;
   background-repeat: no-repeat;
+  background-size: cover;
   width: 100vw;
   height: 100vh;
   text-align: right;
@@ -45,4 +53,29 @@
   color: #005fac;
   font-size: 20px;
   font-weight: 600;
+}
+
+/* main section */
+
+.upper-main {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  margin: 140px 250px 0 229px;
+}
+
+.person-img {
+  padding-right: 87px;
+}
+.upper-main-text {
+  justify-content: center;
+  margin-top: 23px;
+}
+#upper-main-h3 {
+  padding-bottom: 24px;
+}
+.li-p img {
+  margin-top: 20px;
+  margin-right: 5px;
+
 }
