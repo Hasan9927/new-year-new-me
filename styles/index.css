@@ -47,8 +47,8 @@
 .header-btn {
   border: none;
   margin-top: 32px;
-  width: 160px;
-  height: 64px;
+  width: 140px;
+  height: 50px;
   border-radius: 5px;
   color: #005fac;
   font-size: 20px;
@@ -67,15 +67,100 @@
 .person-img {
   padding-right: 87px;
 }
+
 .upper-main-text {
   justify-content: center;
   margin-top: 23px;
 }
+
 #upper-main-h3 {
   padding-bottom: 24px;
 }
+
 .li-p img {
   margin-top: 20px;
   margin-right: 5px;
-
 }
+
+.my-plans {
+  text-align: center;
+  margin-top: 150px;
+}
+.lower-main {
+  margin: 50px 130px 135px 130px;
+}
+.lower-main-section {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.lower-main-img {
+  padding: 80px;
+  text-align: center;
+}
+.lower-main-h3 {
+  color: #151414;
+  text-align: center;
+  font-size: 30px;
+  font-weight: 700;
+  margin-top: 16px;
+  margin-bottom: 16px;
+}
+.lower-p {
+  color: #737272;
+  font-size: 19px;
+  font-weight: 500;
+}
+
+.keep-positive {
+  position: relative;
+  margin-bottom: 130px;
+}
+
+.image {
+  display: block;
+  width: 100%;
+}
+.image1 {
+  position: absolute;
+  width: 100%;
+  bottom: 0;
+  left: 0;
+}
+.tags {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+}
+
+.mindset-h1 {
+  color: #fff;
+  margin-top: 65px;
+  margin-left: 64px;
+  margin-bottom: 24px;
+  margin-right: 617px;
+  font-size: 40px;
+  font-weight: 700;
+  line-height: normal;
+}
+.call-now-btn {
+  border: none;
+  width: 160px;
+  height: 64px;
+  margin-left: 64px;
+
+  border-radius: 5px;
+  background: #fff;
+  color: #005fac;
+  text-align: center;
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.footer-container {
+  background: #151414;
+  color: #f8f8f8;
+}
+
+
